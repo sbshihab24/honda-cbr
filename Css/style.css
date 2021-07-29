@@ -3,7 +3,6 @@
 .honda-bg-info {
     background-color: #264653;
 }
-
 .categories img {
     width: 100px;
 }
@@ -15,5 +14,37 @@
     padding: 4px 36px;
     border: none;
 }
-
 /* header css end  */
+/* css feature bike start */
+.container h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+    .container p{
+    color: #E76F51;
+    text-align: center;
+    padding-bottom:20px;
+    }
+.bike-gray {
+    filter: grayscale(100%);
+}
+ /* feature bike end  */
+ /* clints and icon  */
+ span {
+    color: #E76F51;
+}
+.icon-con {
+    text-align: center;
+}
+.fa,
+.fas {
+    font-weight: 900;
+   color: #E77C40   
+}
+.fab,
+.far {
+    font-weight: 400;
+    color: #E77C40
+}
