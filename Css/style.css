@@ -1,4 +1,4 @@
-/* style css start  */
+/* STYLE CSS START  */
 /* header css start  */
 .honda-bg-info {
     background-color: #264653;
@@ -48,3 +48,15 @@
     font-weight: 400;
     color: #E77C40
 }
+/* subscribe css  */
+.bike-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.subscribe{
+    background-color: aquamarine;
+}
+ /****** CSS STYLE END ***** */
