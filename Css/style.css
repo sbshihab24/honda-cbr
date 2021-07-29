@@ -1,0 +1,19 @@
+/* style css start  */
+/* header css start  */
+.honda-bg-info {
+    background-color: #264653;
+}
+
+.categories img {
+    width: 100px;
+}
+.Honda-btn-buy-now {
+    /* background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%); */
+    background-color: #E76F51;
+    color: white;
+    border-radius: 4px;
+    padding: 4px 36px;
+    border: none;
+}
+
+/* header css end  */
